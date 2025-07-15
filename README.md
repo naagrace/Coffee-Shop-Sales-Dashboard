@@ -19,3 +19,6 @@
 - Afternoons are the busiest time slot for the café.
 - Promotions noticeably increase customer numbers.
 -  Weekends drive higher overall sales volume.
+
+  ![Coffee Shop Dashboard Screenshot](dashboard.png)
+  
