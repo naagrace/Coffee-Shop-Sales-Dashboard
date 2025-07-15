@@ -1,10 +1,21 @@
-# Coffee-Shop-Sales-Dashboard
-Power BI dashboard analyzing daily sales for a coffee shop.
+# Coffee Shop Daily Sales Dashboard ☕📊
 
-Features:
-- Total number of customers, Total sales, average spend per customer.
-- Sales trends by day and time slot.
-- Impact of promotions on customer numbers.
+ Power BI dashboard analyzing daily sales data for a small coffee shop.
 
-**Built with:** Power BI, DAX
+- **Key metrics:**
+  
+-  Total Sales, Average Spend per Customer, Total Customers
+  
+- **Visuals:**
+  
+- Sales by day of the week, time slots (Morning, Afternoon, Evening), and the impact of promotions on customer traffic
+  
+- **Tools used:**
+  
+- Power BI, DAX, Data Cleaning
 
+## 📈 Key insights
+
+- Afternoons are the busiest time slot for the café.
+- Promotions noticeably increase customer numbers.
+-  Weekends drive higher overall sales volume.
