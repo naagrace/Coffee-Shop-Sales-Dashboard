@@ -20,5 +20,5 @@
 - Promotions noticeably increase customer numbers.
 -  Weekends drive higher overall sales volume.
 
-  ![Coffee Shop Dashboard Screenshot](dashboard.png)
+  ![Coffee Shop Dashboard Screenshot](Coffee%20Shop%20dashboard.png)
   
